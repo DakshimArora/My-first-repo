@@ -34,6 +34,7 @@ What I'm doing right now!
 - Giving contests on CodeChef and Codeforces regularly
 
 Connect with me:
+<br>
 GitHub: https://github.com/DakshimArora
 <br>
 LinkedIn: https://www.linkedin.com/in/dakshimarora
