@@ -11,13 +11,21 @@ ABOUT ME:
 - Exploring real-world projects
 
 TECH STACK:
+<br>
     Languages:
+    <br>
         - C & C++
+        <br>
         - JavaScript
+        <br>
     Web Development
+    <br>
         - HTML
+        <br>
         - CSS
+        <br>
         - React.js
+        <br>
         - Node.js(learning)
 
 What I'm doing right now!
@@ -27,6 +35,7 @@ What I'm doing right now!
 
 Connect with me:
 GitHub: https://github.com/DakshimArora
+<br>
 LinkedIn: https://www.linkedin.com/in/dakshimarora
 
 
